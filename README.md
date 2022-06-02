@@ -3,7 +3,7 @@
 # Description
 This is list of technoligies we are interested in. 
 1. Anyone can add item on list. 
-2. Anyone can take list item, collect information and share to otheres.
+2. Anyone can take list item, collect information and share to others.
 # updating list
 1. clone repository
 2. create branch named: 'index/your fullname' e.g. 1/DavitKheoshvili
